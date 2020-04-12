@@ -3,7 +3,7 @@ Project collecting scripts for UNCOVER COVID-19 Challenge: https://www.kaggle.co
 
 ## List of ongoing tasks and information 
 
-### Which populations are at risk of contracting COVID-19? 
+### Which populations are at risk of contracting COVID-19? [q1] 
 Relevant data 
 * Need to use per-capita data: only available are covid_19_canada_open_data_working_group/public-covid-19-cases-canada.csv 
 * Normalise the data to per-country infrastructure and intrinsic risks, basically all under HDE
