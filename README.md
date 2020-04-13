@@ -15,3 +15,12 @@ Project collecting scripts for UNCOVER COVID-19 Challenge: https://www.kaggle.co
 ***Notebook(s)***
 
 * https://www.kaggle.com/nicolaorlandowork/demographic-study-of-covid-19-cases-in-canada 
+
+### Which patient populations pass away from COVID-19? 
+
+* Overall death/cases per country is here  worldometer-confirmed-cases-and-deaths-by-country-territory-or-conveyance.csv
+* Testing locations crowd-sourced-covid-19-testing-locations.csv
+* us-county-health-rankings-2020.csv (not sure has deadths from COVID-19)
+* covid-statistics-by-us-states-daily-updates.csv has some possibly useful data on hospital data, similar for covid-statistics-by-us-states-totals.csv 
+* einstein dataset has interesting features, possibly useful for a ML based analysis 
+
